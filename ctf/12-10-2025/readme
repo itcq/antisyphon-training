@@ -1,1 +1,5 @@
-Download the pcap file.
+Welcome to this week's CTF from Antisyphon Training. In this CTF you will be given a .PCAPNG file to analyze.
+Answer the question below and submit your answer here: https://www.antisyphontraining.com/ctf-challenges/
+
+Question: 
+What is the community_id hash (flow hash) associated to the HTTP request for “anchovies”? 
